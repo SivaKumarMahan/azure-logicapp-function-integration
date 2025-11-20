@@ -1,0 +1,6 @@
+.local
+.vscode
+__pycache__/
+*.pyc
+Dockerfile
+local.settings.json
