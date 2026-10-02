@@ -1,0 +1,39 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "appi",
+    "APPINSIGHTS",
+    "appsettings",
+    "azureblob",
+    "callfn",
+    "centralindia",
+    "configreferences",
+    "flexconsumption",
+    "funcignore",
+    "functionapp",
+    "functiondb",
+    "getblob",
+    "INSTRUMENTATIONKEY",
+    "lafunc",
+    "libodbc",
+    "logicapp",
+    "mypythonfunctionappinsights",
+    "mypythonfunctiondemo",
+    "NVARCHAR",
+    "onupdatedfile",
+    "passwordless",
+    "processfile",
+    "pyodbc",
+    "pytest",
+    "sqlfunctionserverdemo",
+    "SSMS",
+    "SYSUTCDATETIME",
+    "venv"
+  ],
+  "ignorePaths": [
+    ".git",
+    ".venv",
+    "**/*.json"
+  ]
+}
