@@ -1,6 +1,13 @@
+.git*
 .local
+.venv
 .vscode
 __pycache__/
 *.pyc
+.pytest_cache/
 Dockerfile
 local.settings.json
+local.settings.json.example
+requirements-dev.txt
+tests/
+pytest.ini
