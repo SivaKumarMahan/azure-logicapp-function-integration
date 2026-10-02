@@ -1,0 +1,32 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "baseName": {
+      "value": "lafunc"
+    },
+    "environmentName": {
+      "value": "dev"
+    },
+    "location": {
+      "value": "centralindia"
+    },
+    "pythonVersion": {
+      "value": "3.12"
+    },
+    "sqlServerName": {
+      "value": "sqlfunctionserverdemo"
+    },
+    "sqlDatabaseName": {
+      "value": "functiondb"
+    },
+    "deployLogicApp": {
+      "value": true
+    },
+    "tags": {
+      "value": {
+        "owner": "TODO"
+      }
+    }
+  }
+}
