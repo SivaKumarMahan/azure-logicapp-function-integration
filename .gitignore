@@ -1,0 +1,20 @@
+# Local secrets and settings (commit the *.example files instead)
+local.settings.json
+.env
+*.parameters.local.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.python_packages/
+
+# Bicep build output (compile in CI or to a temp folder)
+infra/**/*.json
+!infra/**/*.parameters.example.json
+
+# Editors / OS
+.DS_Store
+.idea/
